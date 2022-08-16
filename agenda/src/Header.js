@@ -2,8 +2,8 @@ import { FaUser, FaArrowAltCircleRight } from 'react-icons/fa';
 
 const Header = () => {
   const userIconsUpdate = {
-    color: 'white',
-    fontSize: 20,
+    color: 'rgb(78, 91, 94)',
+    fontSize: 40,
     paddingTop: 10,
   };
 

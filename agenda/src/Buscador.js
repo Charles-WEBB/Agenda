@@ -2,7 +2,7 @@ import { FaSearch } from 'react-icons/fa';
 
 function Buscador() {
   return (
-    <div class="barraDeBusqueda">
+    <div className="barraDeBusqueda">
       <form method="get" action="index.js">
         <input type="search" placeholder="Buscar a alguien... " />
         <button id="buscarContacto">
